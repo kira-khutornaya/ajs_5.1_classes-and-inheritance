@@ -19,7 +19,7 @@ describe('Bowman:', () => {
     });
   });
 
-  describe('damage function:', () => {
+  describe('damage method:', () => {
     test('at a damage level of 60 should expect a health level of 55', () => {
       bowman.damage(60);
       expect(bowman.health).toBe(55);
@@ -31,7 +31,7 @@ describe('Bowman:', () => {
     });
   });
 
-  describe('levelUp function:', () => {
+  describe('levelUp method:', () => {
     test('should throw error', () => {
       expect(() => bowman.levelUp()).toThrow();
     });
