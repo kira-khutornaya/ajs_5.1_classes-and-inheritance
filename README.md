@@ -1,1 +1,1 @@
-# ajs_5.1_classes-and-inheritance [![Build status](https://ci.appveyor.com/api/projects/status/94wkqvuhag5avc7h?svg=true)](https://ci.appveyor.com/project/kira-khutornaya/ajs-12-1-new-type)
+# ajs_5.1_classes-and-inheritance [![Build status](https://ci.appveyor.com/api/projects/status/7mt91sxc67drymi7?svg=true)](https://ci.appveyor.com/project/kira-khutornaya/ajs-5-1-classes-and-inheritance)
